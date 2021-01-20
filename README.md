@@ -1,4 +1,4 @@
-![alt text](https://github.com/[ahmed4549]/[ahmed4549]/blob/git-banner.png?raw=true)
+<img alt="Hi I am ahmed" src="Ahmed4549/Ahmed4549/blob/main/git-banner.png?raw=true">
 
 ### Hi there 👋
 
