@@ -1,4 +1,4 @@
-<img alt="Hi I am ahmed" src="Ahmed4549/git-banner.png?raw=true">
+![alt="Hi"](git-banner.png)
 
 ### Hi there 👋
 
