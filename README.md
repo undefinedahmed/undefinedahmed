@@ -4,6 +4,6 @@
 
 - 🔭 I’m a Software Engineering Student & currently working on Frontend Development.
 - 🌱 I’m learning React-Native, TypeScript, Nodejs, Python...
-- 📫 My Portfolio: https://webandmobileappdev-5ccbc.web.app/
+- 📫 My Portfolio: https://ahmed4549.github.io/portfolio/
 - 📚 LinkedIn: https://www.linkedin.com/in/ahmed4549/
-- ⚡ Fun fact: I would rather shop sneakers and shoes instead of clothes 😄
+- ⚡ Fun fact: I would rather shop alot of sneakers and shoes instead of food or clothes 😄
